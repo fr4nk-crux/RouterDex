@@ -19,7 +19,7 @@ Catalogue interactif des modèles IA disponibles sur [OpenRouter](https://openro
 ## Installation
 
 ### Depuis les releases
-Télécharger le `.exe` (Windows) (https://github.com/HellCoda/RouterDex/releases/tag/RouterDex).
+Télécharger le `.exe` (Windows) (https://github.com/fr4nk-crux/RouterDex/releases/tag/RouterDex).
 
 ### Build
 Nécessite [Rust](https://rustup.rs/).
@@ -28,7 +28,7 @@ npm run tauri build
 ```
 Linux - Mac
 
-https://github.com/HellCoda/RouterDex/blob/main/.github/workflows/build.yml
+https://github.com/fr4nk-crux/RouterDex/blob/main/.github/workflows/build.yml
 
 ### Développement
 ```bash
@@ -40,7 +40,7 @@ npm run dev
 ## Données
 
 - Modèles : [OpenRouter API](https://openrouter.ai/api/v1/models)
-- Leaderboard : Mise à jour hebdomadaire depuis [routerdex-data](https://github.com/HellCoda/RouterDex/blob/main/public/data/leaderboard.json)
+- Leaderboard : Mise à jour hebdomadaire depuis [routerdex-data](https://github.com/fr4nk-crux/RouterDex/blob/main/public/data/leaderboard.json)
 
 ## Licence
 

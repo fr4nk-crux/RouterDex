@@ -7,7 +7,7 @@
 // ============================================================
 
 const API_URL        = 'https://openrouter.ai/api/v1/models';
-const LEADERBOARD_URL = 'https://raw.githubusercontent.com/HellCoda/RouterDex/main/public/data/leaderboard.json';
+const LEADERBOARD_URL = 'https://raw.githubusercontent.com/fr4nk-crux/RouterDex/main/public/data/leaderboard.json';
 const CACHE_KEY      = 'routerdex_models';
 const CACHE_TTL      = 24 * 60 * 60 * 1000;
 const DEBOUNCE       = 300;
